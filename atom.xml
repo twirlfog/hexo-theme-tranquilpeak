@@ -2,11 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Tranquilpeak Hexo theme demo</title>
   
-  <link href="//atom.xml" rel="self"/>
+  <link href="/hexo-theme-tranquilpeak//atom.xml" rel="self"/>
   
-  <link href="http://localhost:4000/"/>
+  <link href="http://louisbarranqueiro.github.io/hexo-theme-tranquilpeak/"/>
   <updated>2016-07-31T12:46:31.000Z</updated>
-  <id>http://localhost:4000/</id>
+  <id>http://louisbarranqueiro.github.io/hexo-theme-tranquilpeak/</id>
   
   <author>
     <name>Louis Barranqueiro</name>
@@ -17,8 +17,8 @@
   
   <entry>
     <title>Welcome to Tranquilpeak 1.9</title>
-    <link href="http://localhost:4000/2015/06/15/Welcome-to-the-new-Tranquilpeak/"/>
-    <id>http://localhost:4000/2015/06/15/Welcome-to-the-new-Tranquilpeak/</id>
+    <link href="http://louisbarranqueiro.github.io/hexo-theme-tranquilpeak/2015/06/15/Welcome-to-the-new-Tranquilpeak/"/>
+    <id>http://louisbarranqueiro.github.io/hexo-theme-tranquilpeak/2015/06/15/Welcome-to-the-new-Tranquilpeak/</id>
     <published>2015-06-15T20:30:05.000Z</published>
     <updated>2016-07-31T12:46:31.000Z</updated>
     
@@ -26,7 +26,7 @@
 <p><img src="http://d1u9biwaxjngwg.cloudfront.net/showcases/showcase-v1.7.jpg" alt="Tranquilpeak"><br>Tranquilpeak is a gorgeous responsive theme for Hexo blog framework. It has many features and integrated services to improve user experience.<br><!-- toc --></p>
 <h1 id="Tranquilpeak"><a href="#Tranquilpeak" class="headerlink" title="Tranquilpeak"></a>Tranquilpeak</h1><p><a href="https://gitter.im/LouisBarranqueiro/hexo-theme-tranquilpeak?utm_source=badge&amp;utm_medium=badge&amp;utm_campaign=pr-badge&amp;utm_content=badge" target="_blank" rel="external"><img src="https://badges.gitter.im/Join%20Chat.svg" alt="Join the chat at https://gitter.im/LouisBarranqueiro/hexo-theme-tranquilpeak"></a></p>
 <p>A gorgeous responsive theme for Hexo blog framework </p>
-<p><a href="http://louisbarranqueiro.github.io/hexo-theme-tranquilpeak" target="_blank" rel="external"><img src="http://d1u9biwaxjngwg.cloudfront.net/showcases/showcase-v1.6.jpg" alt="Tranquilpeak"></a></p>
+<p><a href="http://louisbarranqueiro.github.io/hexo-theme-tranquilpeak"><img src="http://d1u9biwaxjngwg.cloudfront.net/showcases/showcase-v1.6.jpg" alt="Tranquilpeak"></a></p>
 <h2 id="Summary"><a href="#Summary" class="headerlink" title="Summary"></a>Summary</h2><ul>
 <li><a href="#general">General</a></li>
 <li><a href="#features">Features</a></li>
@@ -85,7 +85,7 @@
 <li>Run <code>git clone https://github.com/LouisBarranqueiro/hexo-theme-tranquilpeak.git</code>  </li>
 <li>Follow <a href="https://github.com/LouisBarranqueiro/hexo-theme-tranquilpeak/blob/master/docs/developer.md" target="_blank" rel="external">developer documentation</a> to edit and build the theme  </li>
 </ol>
-<h2 id="Demo"><a href="#Demo" class="headerlink" title="Demo"></a>Demo</h2><p>Check out Tranquilpeak theme in live : <a href="http://louisbarranqueiro.github.io/hexo-theme-tranquilpeak" target="_blank" rel="external">hexo-theme-tranquilpeak demo</a></p>
+<h2 id="Demo"><a href="#Demo" class="headerlink" title="Demo"></a>Demo</h2><p>Check out Tranquilpeak theme in live : <a href="http://louisbarranqueiro.github.io/hexo-theme-tranquilpeak">hexo-theme-tranquilpeak demo</a></p>
 <h2 id="Showcase"><a href="#Showcase" class="headerlink" title="Showcase"></a>Showcase</h2><p>I would like to create a showcase with all blogs that use Tranquilpeak, please, add your blog into.<br><strong>Click <a href="https://github.com/LouisBarranqueiro/hexo-theme-tranquilpeak/issues/new?title=Add%20my%20blog%20into%20the%20showcase&amp;body=Hey,%20add%20my%20blog%20into%20the%20showcase:" target="_blank" rel="external">here</a> to add your blog into the showcase.</strong></p>
 <h2 id="Documentation"><a href="#Documentation" class="headerlink" title="Documentation"></a>Documentation</h2><p>If it’s your first time using Hexo, please check <a href="https://hexo.io/docs/" target="_blank" rel="external">Hexo official documentation</a></p>
 <h5 id="For-users"><a href="#For-users" class="headerlink" title="For users"></a>For users</h5><p>To install and configure the theme, consult the following documentation : <a href="https://github.com/LouisBarranqueiro/hexo-theme-tranquilpeak/blob/master/docs/user.md" target="_blank" rel="external">user documentation</a>  </p>
@@ -100,29 +100,29 @@
     
     </summary>
     
-      <category term="tranquilpeak" scheme="http://localhost:4000/categories/tranquilpeak/"/>
+      <category term="tranquilpeak" scheme="http://louisbarranqueiro.github.io/hexo-theme-tranquilpeak/categories/tranquilpeak/"/>
     
-      <category term="releases" scheme="http://localhost:4000/categories/tranquilpeak/releases/"/>
+      <category term="releases" scheme="http://louisbarranqueiro.github.io/hexo-theme-tranquilpeak/categories/tranquilpeak/releases/"/>
     
     
-      <category term="hexo theme" scheme="http://localhost:4000/tags/hexo-theme/"/>
+      <category term="hexo theme" scheme="http://louisbarranqueiro.github.io/hexo-theme-tranquilpeak/tags/hexo-theme/"/>
     
-      <category term="responsive" scheme="http://localhost:4000/tags/responsive/"/>
+      <category term="responsive" scheme="http://louisbarranqueiro.github.io/hexo-theme-tranquilpeak/tags/responsive/"/>
     
-      <category term="swiftype" scheme="http://localhost:4000/tags/swiftype/"/>
+      <category term="swiftype" scheme="http://louisbarranqueiro.github.io/hexo-theme-tranquilpeak/tags/swiftype/"/>
     
-      <category term="gravatar" scheme="http://localhost:4000/tags/gravatar/"/>
+      <category term="gravatar" scheme="http://louisbarranqueiro.github.io/hexo-theme-tranquilpeak/tags/gravatar/"/>
     
-      <category term="disqus" scheme="http://localhost:4000/tags/disqus/"/>
+      <category term="disqus" scheme="http://louisbarranqueiro.github.io/hexo-theme-tranquilpeak/tags/disqus/"/>
     
-      <category term="google analytics" scheme="http://localhost:4000/tags/google-analytics/"/>
+      <category term="google analytics" scheme="http://louisbarranqueiro.github.io/hexo-theme-tranquilpeak/tags/google-analytics/"/>
     
   </entry>
   
   <entry>
     <title>Elements showcase</title>
-    <link href="http://localhost:4000/2015/05/28/Elements-showcase/"/>
-    <id>http://localhost:4000/2015/05/28/Elements-showcase/</id>
+    <link href="http://louisbarranqueiro.github.io/hexo-theme-tranquilpeak/2015/05/28/Elements-showcase/"/>
+    <id>http://louisbarranqueiro.github.io/hexo-theme-tranquilpeak/2015/05/28/Elements-showcase/</id>
     <published>2015-05-28T20:30:05.000Z</published>
     <updated>2016-07-28T13:34:31.000Z</updated>
     
@@ -182,21 +182,21 @@
     
     </summary>
     
-      <category term="tranquilpeak" scheme="http://localhost:4000/categories/tranquilpeak/"/>
+      <category term="tranquilpeak" scheme="http://louisbarranqueiro.github.io/hexo-theme-tranquilpeak/categories/tranquilpeak/"/>
     
-      <category term="features" scheme="http://localhost:4000/categories/tranquilpeak/features/"/>
+      <category term="features" scheme="http://louisbarranqueiro.github.io/hexo-theme-tranquilpeak/categories/tranquilpeak/features/"/>
     
     
-      <category term="html elements" scheme="http://localhost:4000/tags/html-elements/"/>
+      <category term="html elements" scheme="http://louisbarranqueiro.github.io/hexo-theme-tranquilpeak/tags/html-elements/"/>
     
-      <category term="markdown" scheme="http://localhost:4000/tags/markdown/"/>
+      <category term="markdown" scheme="http://louisbarranqueiro.github.io/hexo-theme-tranquilpeak/tags/markdown/"/>
     
   </entry>
   
   <entry>
     <title>Cover image showcase</title>
-    <link href="http://localhost:4000/2015/05/13/Cover-image-showcase/"/>
-    <id>http://localhost:4000/2015/05/13/Cover-image-showcase/</id>
+    <link href="http://louisbarranqueiro.github.io/hexo-theme-tranquilpeak/2015/05/13/Cover-image-showcase/"/>
+    <id>http://louisbarranqueiro.github.io/hexo-theme-tranquilpeak/2015/05/13/Cover-image-showcase/</id>
     <published>2015-05-13T20:30:05.000Z</published>
     <updated>2016-07-31T22:00:27.000Z</updated>
     
@@ -211,19 +211,19 @@
     
     </summary>
     
-      <category term="tranquilpeak" scheme="http://localhost:4000/categories/tranquilpeak/"/>
+      <category term="tranquilpeak" scheme="http://louisbarranqueiro.github.io/hexo-theme-tranquilpeak/categories/tranquilpeak/"/>
     
-      <category term="features" scheme="http://localhost:4000/categories/tranquilpeak/features/"/>
+      <category term="features" scheme="http://louisbarranqueiro.github.io/hexo-theme-tranquilpeak/categories/tranquilpeak/features/"/>
     
     
-      <category term="cover image" scheme="http://localhost:4000/tags/cover-image/"/>
+      <category term="cover image" scheme="http://louisbarranqueiro.github.io/hexo-theme-tranquilpeak/tags/cover-image/"/>
     
   </entry>
   
   <entry>
     <title>highlighted code showcases</title>
-    <link href="http://localhost:4000/2015/03/23/highlighted-code-showcase/"/>
-    <id>http://localhost:4000/2015/03/23/highlighted-code-showcase/</id>
+    <link href="http://louisbarranqueiro.github.io/hexo-theme-tranquilpeak/2015/03/23/highlighted-code-showcase/"/>
+    <id>http://louisbarranqueiro.github.io/hexo-theme-tranquilpeak/2015/03/23/highlighted-code-showcase/</id>
     <published>2015-03-23T20:30:05.000Z</published>
     <updated>2016-07-24T21:43:50.000Z</updated>
     
@@ -267,21 +267,21 @@
     
     </summary>
     
-      <category term="tranquilpeak" scheme="http://localhost:4000/categories/tranquilpeak/"/>
+      <category term="tranquilpeak" scheme="http://louisbarranqueiro.github.io/hexo-theme-tranquilpeak/categories/tranquilpeak/"/>
     
-      <category term="features" scheme="http://localhost:4000/categories/tranquilpeak/features/"/>
+      <category term="features" scheme="http://louisbarranqueiro.github.io/hexo-theme-tranquilpeak/categories/tranquilpeak/features/"/>
     
     
-      <category term="highlight code" scheme="http://localhost:4000/tags/highlight-code/"/>
+      <category term="highlight code" scheme="http://louisbarranqueiro.github.io/hexo-theme-tranquilpeak/tags/highlight-code/"/>
     
-      <category term="github theme" scheme="http://localhost:4000/tags/github-theme/"/>
+      <category term="github theme" scheme="http://louisbarranqueiro.github.io/hexo-theme-tranquilpeak/tags/github-theme/"/>
     
   </entry>
   
   <entry>
     <title>Tags plugins showcase</title>
-    <link href="http://localhost:4000/2014/10/29/Tags-plugins-showcase/"/>
-    <id>http://localhost:4000/2014/10/29/Tags-plugins-showcase/</id>
+    <link href="http://louisbarranqueiro.github.io/hexo-theme-tranquilpeak/2014/10/29/Tags-plugins-showcase/"/>
+    <id>http://louisbarranqueiro.github.io/hexo-theme-tranquilpeak/2014/10/29/Tags-plugins-showcase/</id>
     <published>2014-10-29T20:30:05.000Z</published>
     <updated>2016-07-15T09:04:25.000Z</updated>
     
@@ -393,14 +393,14 @@
     </summary>
     
     
-      <category term="tag plugins" scheme="http://localhost:4000/tags/tag-plugins/"/>
+      <category term="tag plugins" scheme="http://louisbarranqueiro.github.io/hexo-theme-tranquilpeak/tags/tag-plugins/"/>
     
   </entry>
   
   <entry>
     <title>Video integrations showcase</title>
-    <link href="http://localhost:4000/2014/08/09/Video-integrations-showcase/"/>
-    <id>http://localhost:4000/2014/08/09/Video-integrations-showcase/</id>
+    <link href="http://louisbarranqueiro.github.io/hexo-theme-tranquilpeak/2014/08/09/Video-integrations-showcase/"/>
+    <id>http://louisbarranqueiro.github.io/hexo-theme-tranquilpeak/2014/08/09/Video-integrations-showcase/</id>
     <published>2014-08-09T20:30:05.000Z</published>
     <updated>2016-07-18T16:26:23.000Z</updated>
     
@@ -416,25 +416,25 @@
     
     </summary>
     
-      <category term="tranquilpeak" scheme="http://localhost:4000/categories/tranquilpeak/"/>
+      <category term="tranquilpeak" scheme="http://louisbarranqueiro.github.io/hexo-theme-tranquilpeak/categories/tranquilpeak/"/>
     
-      <category term="features" scheme="http://localhost:4000/categories/tranquilpeak/features/"/>
+      <category term="features" scheme="http://louisbarranqueiro.github.io/hexo-theme-tranquilpeak/categories/tranquilpeak/features/"/>
     
     
-      <category term="videos integration" scheme="http://localhost:4000/tags/videos-integration/"/>
+      <category term="videos integration" scheme="http://louisbarranqueiro.github.io/hexo-theme-tranquilpeak/tags/videos-integration/"/>
     
-      <category term="youtube" scheme="http://localhost:4000/tags/youtube/"/>
+      <category term="youtube" scheme="http://louisbarranqueiro.github.io/hexo-theme-tranquilpeak/tags/youtube/"/>
     
-      <category term="vimeo" scheme="http://localhost:4000/tags/vimeo/"/>
+      <category term="vimeo" scheme="http://louisbarranqueiro.github.io/hexo-theme-tranquilpeak/tags/vimeo/"/>
     
-      <category term="dailymotion" scheme="http://localhost:4000/tags/dailymotion/"/>
+      <category term="dailymotion" scheme="http://louisbarranqueiro.github.io/hexo-theme-tranquilpeak/tags/dailymotion/"/>
     
   </entry>
   
   <entry>
     <title>中文測試</title>
-    <link href="http://localhost:4000/2013/10/03/%E4%B8%AD%E6%96%87%E6%B8%AC%E8%A9%A6/"/>
-    <id>http://localhost:4000/2013/10/03/中文測試/</id>
+    <link href="http://louisbarranqueiro.github.io/hexo-theme-tranquilpeak/2013/10/03/%E4%B8%AD%E6%96%87%E6%B8%AC%E8%A9%A6/"/>
+    <id>http://louisbarranqueiro.github.io/hexo-theme-tranquilpeak/2013/10/03/中文測試/</id>
     <published>2013-10-02T23:31:30.000Z</published>
     <updated>2016-07-18T10:08:20.000Z</updated>
     
@@ -455,19 +455,19 @@
     
     </summary>
     
-      <category term="tranquilpeak" scheme="http://localhost:4000/categories/tranquilpeak/"/>
+      <category term="tranquilpeak" scheme="http://louisbarranqueiro.github.io/hexo-theme-tranquilpeak/categories/tranquilpeak/"/>
     
-      <category term="features" scheme="http://localhost:4000/categories/tranquilpeak/features/"/>
+      <category term="features" scheme="http://louisbarranqueiro.github.io/hexo-theme-tranquilpeak/categories/tranquilpeak/features/"/>
     
     
-      <category term="chinese" scheme="http://localhost:4000/tags/chinese/"/>
+      <category term="chinese" scheme="http://louisbarranqueiro.github.io/hexo-theme-tranquilpeak/tags/chinese/"/>
     
   </entry>
   
   <entry>
     <title>Image gallery showcase</title>
-    <link href="http://localhost:4000/2013/02/18/Image-gallery-showcase/"/>
-    <id>http://localhost:4000/2013/02/18/Image-gallery-showcase/</id>
+    <link href="http://louisbarranqueiro.github.io/hexo-theme-tranquilpeak/2013/02/18/Image-gallery-showcase/"/>
+    <id>http://louisbarranqueiro.github.io/hexo-theme-tranquilpeak/2013/02/18/Image-gallery-showcase/</id>
     <published>2013-02-18T20:30:05.000Z</published>
     <updated>2016-07-18T14:16:15.000Z</updated>
     
@@ -480,19 +480,19 @@
     
     </summary>
     
-      <category term="tranquilpeak" scheme="http://localhost:4000/categories/tranquilpeak/"/>
+      <category term="tranquilpeak" scheme="http://louisbarranqueiro.github.io/hexo-theme-tranquilpeak/categories/tranquilpeak/"/>
     
-      <category term="features" scheme="http://localhost:4000/categories/tranquilpeak/features/"/>
+      <category term="features" scheme="http://louisbarranqueiro.github.io/hexo-theme-tranquilpeak/categories/tranquilpeak/features/"/>
     
     
-      <category term="image gallery" scheme="http://localhost:4000/tags/image-gallery/"/>
+      <category term="image gallery" scheme="http://louisbarranqueiro.github.io/hexo-theme-tranquilpeak/tags/image-gallery/"/>
     
   </entry>
   
   <entry>
     <title>日本語テスト</title>
-    <link href="http://localhost:4000/2013/01/03/%E6%97%A5%E6%9C%AC%E8%AA%9E%E3%83%86%E3%82%B9%E3%83%88/"/>
-    <id>http://localhost:4000/2013/01/03/日本語テスト/</id>
+    <link href="http://louisbarranqueiro.github.io/hexo-theme-tranquilpeak/2013/01/03/%E6%97%A5%E6%9C%AC%E8%AA%9E%E3%83%86%E3%82%B9%E3%83%88/"/>
+    <id>http://louisbarranqueiro.github.io/hexo-theme-tranquilpeak/2013/01/03/日本語テスト/</id>
     <published>2013-01-02T23:30:04.000Z</published>
     <updated>2016-07-15T10:31:34.000Z</updated>
     
@@ -512,19 +512,19 @@
     
     </summary>
     
-      <category term="tranquilpeak" scheme="http://localhost:4000/categories/tranquilpeak/"/>
+      <category term="tranquilpeak" scheme="http://louisbarranqueiro.github.io/hexo-theme-tranquilpeak/categories/tranquilpeak/"/>
     
-      <category term="features" scheme="http://localhost:4000/categories/tranquilpeak/features/"/>
+      <category term="features" scheme="http://louisbarranqueiro.github.io/hexo-theme-tranquilpeak/categories/tranquilpeak/features/"/>
     
     
-      <category term="japanese" scheme="http://localhost:4000/tags/japanese/"/>
+      <category term="japanese" scheme="http://louisbarranqueiro.github.io/hexo-theme-tranquilpeak/tags/japanese/"/>
     
   </entry>
   
   <entry>
     <title>Hexo websites</title>
-    <link href="http://localhost:4000/2012/04/13/link-post/"/>
-    <id>http://localhost:4000/2012/04/13/link-post/</id>
+    <link href="http://louisbarranqueiro.github.io/hexo-theme-tranquilpeak/2012/04/13/link-post/"/>
+    <id>http://louisbarranqueiro.github.io/hexo-theme-tranquilpeak/2012/04/13/link-post/</id>
     <published>2012-04-12T23:33:26.000Z</published>
     <updated>2016-07-18T16:44:16.000Z</updated>
     
@@ -537,9 +537,9 @@
     
     </summary>
     
-      <category term="tranquilpeak" scheme="http://localhost:4000/categories/tranquilpeak/"/>
+      <category term="tranquilpeak" scheme="http://louisbarranqueiro.github.io/hexo-theme-tranquilpeak/categories/tranquilpeak/"/>
     
-      <category term="features" scheme="http://localhost:4000/categories/tranquilpeak/features/"/>
+      <category term="features" scheme="http://louisbarranqueiro.github.io/hexo-theme-tranquilpeak/categories/tranquilpeak/features/"/>
     
     
   </entry>
