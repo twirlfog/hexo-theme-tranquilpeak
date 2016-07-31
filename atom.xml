@@ -5,7 +5,7 @@
   <link href="/hexo-theme-tranquilpeak//atom.xml" rel="self"/>
   
   <link href="http://louisbarranqueiro.github.io/hexo-theme-tranquilpeak/"/>
-  <updated>2016-07-31T12:46:31.000Z</updated>
+  <updated>2016-07-31T22:13:27.000Z</updated>
   <id>http://louisbarranqueiro.github.io/hexo-theme-tranquilpeak/</id>
   
   <author>
@@ -20,10 +20,10 @@
     <link href="http://louisbarranqueiro.github.io/hexo-theme-tranquilpeak/2015/06/15/Welcome-to-the-new-Tranquilpeak/"/>
     <id>http://louisbarranqueiro.github.io/hexo-theme-tranquilpeak/2015/06/15/Welcome-to-the-new-Tranquilpeak/</id>
     <published>2015-06-15T20:30:05.000Z</published>
-    <updated>2016-07-31T12:46:31.000Z</updated>
+    <updated>2016-07-31T22:13:27.000Z</updated>
     
     <content type="html"><![CDATA[<!-- excerpt --></p>
-<p><img src="http://d1u9biwaxjngwg.cloudfront.net/showcases/showcase-v1.7.jpg" alt="Tranquilpeak"><br>Tranquilpeak is a gorgeous responsive theme for Hexo blog framework. It has many features and integrated services to improve user experience.<br><!-- toc --></p>
+<p><img src="http://d1u9biwaxjngwg.cloudfront.net/showcases/showcase-v1.9.jpg" alt="Tranquilpeak"><br>Tranquilpeak is a gorgeous responsive theme for Hexo blog framework. It has many features and integrated services to improve user experience.<br><!-- toc --></p>
 <h1 id="Tranquilpeak"><a href="#Tranquilpeak" class="headerlink" title="Tranquilpeak"></a>Tranquilpeak</h1><p><a href="https://gitter.im/LouisBarranqueiro/hexo-theme-tranquilpeak?utm_source=badge&amp;utm_medium=badge&amp;utm_campaign=pr-badge&amp;utm_content=badge" target="_blank" rel="external"><img src="https://badges.gitter.im/Join%20Chat.svg" alt="Join the chat at https://gitter.im/LouisBarranqueiro/hexo-theme-tranquilpeak"></a></p>
 <p>A gorgeous responsive theme for Hexo blog framework </p>
 <p><a href="http://louisbarranqueiro.github.io/hexo-theme-tranquilpeak"><img src="http://d1u9biwaxjngwg.cloudfront.net/showcases/showcase-v1.6.jpg" alt="Tranquilpeak"></a></p>
@@ -39,7 +39,7 @@
 </ul>
 <h2 id="General"><a href="#General" class="headerlink" title="General"></a>General</h2><ul>
 <li><strong>Author</strong> : Louis Barranqueiro</li>
-<li><strong>Version</strong> : 1.9.0</li>
+<li><strong>Version</strong> : 1.9.1</li>
 <li><strong>Compatibility</strong> : Hexo 3.0.0 or later</li>
 </ul>
 <h2 id="Features"><a href="#Features" class="headerlink" title="Features"></a>Features</h2><p><strong>General features :</strong>  </p>
@@ -73,7 +73,7 @@
 <li>Google analytics</li>
 <li>Baidu analytics</li>
 <li>Gravatar</li>
-<li>Swiftype</li>
+<li>Algolia</li>
 <li>Facebook Insights</li>
 </ul>
 <h2 id="Quick-start"><a href="#Quick-start" class="headerlink" title="Quick start"></a>Quick start</h2><p><strong>Please read <a href="https://github.com/LouisBarranqueiro/hexo-theme-tranquilpeak/blob/master/docs/user.md" target="_blank" rel="external">user documentation</a>, it’s short and useful to discover all features and possibilities of the theme, especially the  <a href="https://github.com/LouisBarranqueiro/hexo-theme-tranquilpeak/blob/master/docs/user.md#writing-posts" target="_blank" rel="external">writing posts</a> section</strong></p>
